@@ -1,10 +1,18 @@
 # eda-challenge
 This is a basic practical challenge about **Exploratory Data Analysis** with Python.
 
-Check the **develop** branch to see the `ipynb` file.
+Check the **develop** branch to see the `ipynb` file with all of my documented workflow and annotations.
 
 ## Tasks
-* Lorem ipsum
+Analyze a database and, based on it, extract:
+* Available data types
+* Period of the analysis
+* Database size
+* Check for null values
+* Outliers
+
+## Database to be used
+You can access the CSV file used as database in the **develop** branch.
 
 ## Dependencies
 ### pipenv
