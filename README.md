@@ -53,6 +53,11 @@ ipykernel is a kernel for Jupyter Notebook that allows running Python code in an
 
 Learn more about [ipykernel](https://pypi.org/project/ipykernel/).
 
+### numpy
+NumPy is a library for numerical computing in Python, providing support for multi-dimensional arrays and matrices, as well as a variety of functions for mathematical and statistical operations. It is fundamental for data analysis and is often used in conjunction with other libraries such as Pandas and Matplotlib.
+
+Learn more about [numpy](https://numpy.org/).
+
 ### pandas
 pandas is an open-source library for data manipulation and analysis in Python, providing data structures and operations to work with structured data, including data import/export, merge, groupby, pivot, reshape, and more.
 
